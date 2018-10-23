@@ -29,6 +29,34 @@ It's quite interesting to have this.
 ## Format The Code
 
 ``This is the backtick to show the code 
-Quite interesting ``
+Quite interesting `` will be one line
+
+Use three backticks to have multiple lines
+
+```
+There will be multiple lines of codes
+Here I am! 
+Welcome to the World!
+```
+
+## Python Example
+
+```python
+def myFunction(arg1, arg2):
+    
+    return arg1 + arg2
+```
+
+## Quote
+
+> use >to quote
+
+## Table 
+
+Item  | Cost
+- | -
+Milk | 5
+
+
 
 
