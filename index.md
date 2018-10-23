@@ -53,7 +53,7 @@ def myFunction(arg1, arg2):
 
 ## Table 
 
-Item  | Cost
+Item | Cost
 - | -
 Milk | 5
 
