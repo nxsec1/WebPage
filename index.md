@@ -17,4 +17,18 @@ It's quite interesting to have this.
 1. item 1
 1. item 2 even you type one
 
-[Website Link](www.google.com)
+ 
+## Page Link 
+ 
+[Website Link](http://www.google.com)
+
+
+ "./" means start from here 
+ e.g.:./Document
+
+## Format The Code
+
+``This is the backtick to show the code 
+Quite interesting ``
+
+
